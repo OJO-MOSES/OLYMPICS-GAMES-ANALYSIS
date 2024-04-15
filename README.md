@@ -21,6 +21,8 @@ In this project, I explored aspects such as medal distributions, participation r
 
 In this project, we embark on a journey through the data of various Olympic events, spanning decades of competitions. By analyzing this extensive dataset, I aim to uncover insights into trends, achievements, and changes in the landscape of the Olympics over the years.
 
+![oly1](https://github.com/OJO-MOSES/OLYMPICS-GAMES-ANALYSIS/assets/113169345/7904766d-3d65-4c1d-a355-ff389749ccdb)
+
 ### Data Sources
 
 The primary data source for this project is an extensive dataset containing information on Olympic events, athletes, medals, and countries from year 1900 to 2016. It can be [Downloaded Here](https://drive.google.com/drive/folders/1Sr-sl_HdM-_crELIKHuaWAMuFaTnsa_).
@@ -53,13 +55,20 @@ The data was containing errors, duplicates, and blanks or missing values. Each d
 
 ### Results 
 
+![oly4](https://github.com/OJO-MOSES/OLYMPICS-GAMES-ANALYSIS/assets/113169345/dcf72fbf-617f-4d24-b443-9cd11e81943d)
+
 1. The male won medals most by 72.53% total 196.37k medals.
 2. The sport with the highest count of medals was athletics.
 3. The top 10 countries by the distribution of medals are as follows
-4. Micheal Fred has the highest medals, total 28 and the highest gold winner with 23 golds.
-5. The total medals over the years was 39.77k medals
-6. The total sports was 66
-7. The total number of countries that participated was 136
+ 
+   ![oly2](https://github.com/OJO-MOSES/OLYMPICS-GAMES-ANALYSIS/assets/113169345/e6eac136-ad3d-4048-b1d1-87ccf6d865f3)
+
+5. Micheal Fred has the highest medals, total 28 and the highest gold winner with 23 golds.
+6. The total medals over the years was 39.77k medals
+7. The total sports was 66
+8. The total number of countries that participated was 136
+
+![oly3](https://github.com/OJO-MOSES/OLYMPICS-GAMES-ANALYSIS/assets/113169345/75b18f6d-5812-4318-aaf6-40bb9eae03a1)
 
 
 ### Recommendations
